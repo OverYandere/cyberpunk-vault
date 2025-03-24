@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Yandere's TTRPG Public Vault
+description: The public notes and world building for my campaigns.
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to Over Yandere's, that's me, public collection of campaign information for TTRPG games that I've run. For now this only consists of games set within the Cyberpunk RED system, published by R Talsorian Games. Though hopefully in the future it will feature games from other companies and systems.
